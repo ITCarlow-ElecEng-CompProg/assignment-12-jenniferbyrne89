@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511967656 source:d:\computer programming\lab exercises\12. complex number calculations\complex number calculations\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<windows.h>
+	<math.h>
+
